@@ -66,7 +66,7 @@ namespace Tech_Project_2
                 {
                     Console.WriteLine("Your expected grade is a A-!");
                 }
-                else
+                else // only else if necessary because anything above 92 is an A
                 {
                     Console.WriteLine("Your expected grade is a A!");
                 }                
